@@ -1,0 +1,45 @@
+* {
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Permanent Marker', cursive;
+    width: 50%;
+}
+
+h2 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+#wrapper {
+    display: flex;
+    width: 25%;
+    margin-top: 20px;
+    height: 100%;
+    background-color:whitesmoke;
+    border: 4px solid #0dcaf0;
+}
+
+#form_entry {
+    display: flex;
+    flex-direction: column;
+}
+
+#add_user {
+    margin-top: 20px;
+}
+
+#update_ninja {
+    margin-top: 20px;
+}
+
+a {
+    margin-top: 20px;
+}
+
+label {
+    font-weight: bold;
+    padding-top: 10px;
+}
